@@ -1,2 +1,2 @@
-# hello-worlk
+# hello-world
 exploring GitHub
